@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Guilherme 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=480&lines=Guilherme+Passaroto;De+low-level+a+IA%2C+sem+r%C3%B3tulo+fixo;Sempre+testando+algo+novo)
+# Guilherme Passaroto 👋
+ 
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=480&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme;De+low-level+a+IA%2C+sem+r%C3%B3tulo+fixo;Sempre+testando+algo+novo)
 
 </div>
 
