@@ -2,7 +2,7 @@
 
 # Guilherme Passaroto
  
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=480&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme;De+low-level+a+IA%2C+sem+r%C3%B3tulo+fixo;Sempre+testando+algo+novo)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=480&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme;De+low-level+a+IA;Sempre+testando+algo+novo)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [**Bloom**](https://github.com/Gui97p/Bloom) | Userland construído do zero sobre o kernel *Sekura* (feito por um amigo) — libc própria, driver de teclado PS/2 e shell interativo | `C` `Assembly` |
+| [**Bloom**](https://github.com/Gui97p/Bloom) | Userland construído do zero sobre o kernel *Sekura* (feito por um amigo) com libc própria, driver de teclado PS/2, shell interativo e biblioteca gráfica | `C` `Assembly` `x86-64` |
 | [**Nexus ChatApp**](https://github.com/Gui97p/Nexus-ChatApp) | API para um chat no estilo Discord, com arquitetura em camadas (controllers/services) | `Fastify` `TypeScript` `Socket.io` `PostgreSQL` `Prisma` |
 | [**Lia Server**](https://github.com/Gui97p/lia-server) | Backend de um assistente de IA pessoal inspirado no Jarvis, arquitetura Planner/Executor, roteamento multi-provider de LLM, pensado para múltiplos clients (mobile, web, desktop, IoT) | `Go` `PostgreSQL` `WebSockets` |
 | [**Wisp**](https://github.com/Gui97p/wisp) | Linguagem de programação compilada/transpilada, com lexer, parser, análise semântica, backends para Lua e x86-64 e uma extensão de vscode. | `Go` `Lua` `x86-64` `Assembly` `Compiler` |
