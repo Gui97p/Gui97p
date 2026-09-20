@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de **Engenharia de Software** na **Faculdade Assis Gurgacz (FAG)**
 - 💼 Atuo na área de **Tecnologia e Inovação** da **EBCON Contadores**, desenvolvendo automações (principalmente em **Python**) para as áreas fiscal e contábil
-- 🌱 Não me prendo a um rótulo, já passei por sistemas de baixo nível, backend, IA e front-end. Em 2023 eu diria "vou ser back-end", hoje sigo o que desperta curiosidade
+- 🌱 Já passei por sistemas de baixo nível, backend, IA e front-end. Em 2023 eu diria "vou ser back-end", hoje sigo o que desperta curiosidade
 
 ## 🛠️ Tecnologias
 
@@ -52,8 +52,9 @@
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [**Bloom**](https://github.com/Gui97p/Bloom) | Userland construído do zero sobre o kernel *Sekura* (feito por um amigo) — libc própria, driver de teclado PS/2 e shell interativo | `C` `Assembly` |
-| [**Nexus ChatApp**](https://github.com/Gui97p/Nexus-ChatApp) | API para um chat no estilo Discord, com arquitetura em camadas (controllers/services) | `Fastify` `TypeScript` `PostgreSQL` `Prisma` |
-| [**Lia Server**](https://github.com/Gui97p/lia-server) | Backend de um assistente de IA pessoal inspirado no Jarvis — arquitetura Planner/Executor, roteamento multi-provider de LLM, pensado para múltiplos clients (mobile, web, desktop, IoT) | `Go` `PostgreSQL` `WebSockets` |
+| [**Nexus ChatApp**](https://github.com/Gui97p/Nexus-ChatApp) | API para um chat no estilo Discord, com arquitetura em camadas (controllers/services) | `Fastify` `TypeScript` `Socket.io` `PostgreSQL` `Prisma` |
+| [**Lia Server**](https://github.com/Gui97p/lia-server) | Backend de um assistente de IA pessoal inspirado no Jarvis, arquitetura Planner/Executor, roteamento multi-provider de LLM, pensado para múltiplos clients (mobile, web, desktop, IoT) | `Go` `PostgreSQL` `WebSockets` |
+| [**Wisp**](https://github.com/Gui97p/wisp) | Linguagem de programação compilada/transpilada, com lexer, parser, análise semântica, backends para Lua e x86-64 e uma extensão de vscode. | `Go` `Lua` `x86-64` `Assembly` `Compiler` |
 
 ## 🧭 Trajetória
 
